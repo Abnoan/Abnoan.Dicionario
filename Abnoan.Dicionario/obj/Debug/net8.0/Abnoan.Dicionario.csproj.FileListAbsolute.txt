@@ -1,0 +1,14 @@
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\bin\Debug\net8.0\Abnoan.Dicionario.exe
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\bin\Debug\net8.0\Abnoan.Dicionario.deps.json
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\bin\Debug\net8.0\Abnoan.Dicionario.runtimeconfig.json
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\bin\Debug\net8.0\Abnoan.Dicionario.dll
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\bin\Debug\net8.0\Abnoan.Dicionario.pdb
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.AssemblyInfoInputs.cache
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.AssemblyInfo.cs
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.csproj.CoreCompileInputs.cache
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.dll
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\refint\Abnoan.Dicionario.dll
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.pdb
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\Abnoan.Dicionario.genruntimeconfig.cache
+c:\Users\abnoa\Abnoan.Dicionario\Abnoan.Dicionario\obj\Debug\net8.0\ref\Abnoan.Dicionario.dll

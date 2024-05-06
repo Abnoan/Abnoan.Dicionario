@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "Abnoan.Dicionario/bin": true,
+    "Abnoan.Dicionario/obj": true
+  }
+}
