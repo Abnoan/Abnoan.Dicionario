@@ -87,7 +87,7 @@ internal class Program
         //Ver os livros por autor
         Console.Write("Digite o nome do autor para ver seus livros: ");
         string autorBuscado = Console.ReadLine();
-     
+
 
         //Remover Autor
         Console.Write("Digite o nome do autor para remover: ");
@@ -97,10 +97,10 @@ internal class Program
         Console.WriteLine("Autores:");
 
         // Exibindo todos os livros
-        Console.WriteLine("\nLivros:");
+        Console.WriteLine("Livros:");
 
         // Verificando se um autor existe
-        Console.Write("\nDigite o nome de um autor para verificar se existe no dicionário: ");
+        Console.Write("Digite o nome de um autor para verificar se existe no dicionário: ");
         string autorVerificar = Console.ReadLine();
 
         //Adicionar Autor e Livro;
@@ -108,6 +108,18 @@ internal class Program
         string autor = Console.ReadLine();
         Console.Write("Digite o nome do novo livro: ");
         string novoLivro = Console.ReadLine();
+
+        #endregion
+
+        #region Exercicio
+
+
+        Estoque estoque = new Estoque();
+        estoque.AdicionarConsole("C001", "PlayStation 5", 30);
+        estoque.AdicionarConsole("C002", "Xbox Series X", 20);
+        estoque.AtualizarEstoque("C001", 3); // Vende 3 PS5
+        estoque.ListarConsoles();
+        estoque.RemoverConsole("C002"); // Remove o Xbox Series X
 
         #endregion
     }
